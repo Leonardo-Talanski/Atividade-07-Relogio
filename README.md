@@ -2,13 +2,13 @@
 
 # Descrição
 
-Projeto desenvolvido para fins educacionais usando: HTML, CSS e JAVASCRIPT.
+Personalizar um relógio digital e criar uma distribuição no Amazon CloudFront segura.
 
-Para Jogar acesse 
-
-https://leonardo-talanski.github.io/mario-jump/
-
-Instruções : Aperte qualquer tecla para iniciar o jogo, o objetivo é pular sobre os canos e se encostar o jogo será reiniciado.
+1. Personalizar com o seu nome e trocar as cores.
+2. Criar um bucket S3 e subir os objetos personalizados. 
+3. Criar uma distribuição no Amazon CloudFront. 
+4. Se alguém tentar acessar o website com o protocolo "HTTP", ele tem de direcionar para uma conexão segura.
+5. Responder à atividade apenas com o endpoint da sua distribuição do Amazon CloudFront.
 
 # Status do Projeto 
 
